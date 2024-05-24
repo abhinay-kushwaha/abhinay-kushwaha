@@ -4,10 +4,10 @@ Welcome to my GitHub profile! Here you'll find a showcase of my projects, contri
 
 ## About Me
 
-- 💼 "Continuously honing my skills as a MERN Stack Developer."
-- 🎓 Currently pursuing B.Tech in Computer Science from JNCT College, Rewa, MP (2nd Year)
-- 🎓 Computer Science Engineering Diploma from Government Polytechnic College, Rewa, MP
-- 🌱 Eager learner and technology enthusiast
+- 💼 Continuously honing my skills as a MERN Stack Developer.
+- 🎓 Currently pursuing B.Tech in Computer Science from JNCT College, Rewa, MP (2nd Year).
+- 🎓 Computer Science Engineering Diploma from Government Polytechnic College, Rewa, MP.
+- 🌱 Eager learner and technology enthusiast.
 
 ## Experience
 
