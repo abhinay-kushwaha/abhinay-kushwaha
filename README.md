@@ -11,7 +11,7 @@ Welcome to my GitHub profile! Here you'll find a showcase of my projects, contri
 
 ## Experience
 
-- 💼 **Internship at Shanti InfoSoft**
+- 💼 **Internship at Shanti InfoSoft LLP**
   - Worked as a MERN Stack Developer
   - Developed full-stack web applications using MongoDB, Express.js, React.js, and Node.js
   - Gained hands-on experience in front-end and back-end development, API integration, and database management
