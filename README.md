@@ -11,6 +11,11 @@ Welcome to my GitHub profile! Here you'll find a showcase of my projects, contri
 
 ## Experience
 
+- 💼 **MERN Stack Developer at OzoneSoft Solutions**
+  - Building and maintaining web applications using MongoDB, Express.js, React.js, and Node.js
+  - Collaborating with a team to design and implement new features
+  - Ensuring high performance and responsiveness of applications
+
 - 💼 **Internship at Shanti InfoSoft LLP**
   - Worked as a MERN Stack Developer
   - Developed full-stack web applications using MongoDB, Express.js, React.js, and Node.js
@@ -20,9 +25,9 @@ Welcome to my GitHub profile! Here you'll find a showcase of my projects, contri
 
 Here are a few projects I've worked on:
 
-1. [Student-Management-system](link) .
-2. [ERP-Management-System](https://github.com/abhinay-kushwaha/ERP_management_System) .
-3. [E-Commerce](https://github.com/abhinay-kushwaha/E-Commerce-Test-React).
+1. [Student-Management-system](link)
+2. [ERP-Management-System](https://github.com/abhinay-kushwaha/ERP_management_System)
+3. [E-Commerce](https://github.com/abhinay-kushwaha/E-Commerce-Test-React)
 
 Explore more of my projects on [my GitHub repositories](https://github.com/abhinay-kushwaha).
 
@@ -31,14 +36,15 @@ Explore more of my projects on [my GitHub repositories](https://github.com/abhin
 - Frontend Development: HTML, CSS, JavaScript, React.js
 - Backend Development: Node.js, Express.js
 - Database: MongoDB, MySQL
-- Other: Git, RESTful APIs
+- Other: RESTful APIs, Postman, GitHub
 
 ## Get in Touch
 
-- 📫 Email: [Abhinay Kushwaha](abhiarkiti@gmail.com)
+- 📫 Email: [Abhinay Kushwaha](mailto:abhinayark0@gmail.com)
 - 🔗 LinkedIn: [Abhinay Kushwaha](https://www.linkedin.com/in/abhinay-kushwaha-78b767285)
 - 🌐 Portfolio: [Abhinay Kushwaha](https://portfolio-kappa-blue-17.vercel.app/)
 - 🎥 YouTube: [@abhi_coding_](https://www.youtube.com/@abhi_coding_)
 - 📸 Instagram: [@abhi_coding_](https://www.instagram.com/abhi_coding_?igsh=NDdsMGdncm1kdnEz)
 
 Let's connect and collaborate on exciting projects together!
+
