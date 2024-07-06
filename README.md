@@ -11,12 +11,12 @@ Welcome to my GitHub profile! Here you'll find a showcase of my projects, contri
 
 ## Experience
 
-- 💼 **MERN Stack Developer at OzoneSoft Solutions**
+- 💼 **MERN Stack Developer at OzoneSoft Solutions (July 2024 - Present)**
   - Building and maintaining web applications using MongoDB, Express.js, React.js, and Node.js
   - Collaborating with a team to design and implement new features
   - Ensuring high performance and responsiveness of applications
 
-- 💼 **Internship at Shanti InfoSoft LLP**
+- 💼  **Internship at Shanti InfoSoft LLP (March 2024 - June 2024)**
   - Worked as a MERN Stack Developer
   - Developed full-stack web applications using MongoDB, Express.js, React.js, and Node.js
   - Gained hands-on experience in front-end and back-end development, API integration, and database management
