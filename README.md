@@ -23,7 +23,7 @@ Welcome to my GitHub profile! Here you'll find a showcase of my projects, contri
 
 ## Projects
 
-Here are a few projects I've worked on:.
+Here are a few projects I've worked on:
 
 1. [Student-Management-system](link)
 2. [ERP-Management-System](https://github.com/abhinay-kushwaha/ERP_management_System)
