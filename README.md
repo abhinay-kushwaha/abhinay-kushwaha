@@ -10,7 +10,7 @@ Welcome to my GitHub profile! Here you'll find a showcase of my projects, contri
 - 🌱 Eager learner and technology enthusiast.
 
 ## Portfolio
-- [Potfolio](https://abhinay-ak-portfolio.netlify.app/)
+- [Potfolio](https://www.polywork.com/abhinay_kushwaha)
 ## Projects
 
 Here are a few projects I've worked on:
