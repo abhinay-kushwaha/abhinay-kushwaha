@@ -32,9 +32,9 @@ Explore more of my projects on [my GitHub repositories](https://github.com/abhin
 
 - 📫 Email: [Abhinay Kushwaha](mailto:abhinayark0@gmail.com)
 - 🔗 LinkedIn: [Abhinay Kushwaha](https://www.linkedin.com/in/abhinay-kushwaha-78b767285)
-- 🌐 Portfolio: [Abhinay Kushwaha](https://portfolio-kappa-blue-17.vercel.app/)
-- 🎥 YouTube: [@abhi_coding_](https://www.youtube.com/@abhi_coding_)
-- 📸 Instagram: [@abhi_coding_](https://www.instagram.com/abhi_coding_?igsh=NDdsMGdncm1kdnEz)
+- 🌐 Portfolio: [Abhinay Kushwaha]( )
+- 🎥 YouTube: [@abhi_coding_]( )
+- 📸 Instagram: [@abhi_coding_]( )
 
 
 Let's connect and collaborate on exciting projects together!
