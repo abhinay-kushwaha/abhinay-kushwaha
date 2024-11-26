@@ -10,7 +10,7 @@ Welcome to my GitHub profile! Here you'll find a showcase of my projects, contri
 - 🌱 Eager learner and technology enthusiast.
 
 ## Portfolio
-- [Potfolio](https://www.polywork.com/abhinay_kushwaha)
+- [Potfolio](https://abhinay-kushwaha.netlify.app/)
 ## Projects
 
 Here are a few projects I've worked on:
@@ -32,7 +32,7 @@ Explore more of my projects on [my GitHub repositories](https://github.com/abhin
 
 - 📫 Email: [Abhinay Kushwaha](mailto:abhinayark0@gmail.com)
 - 🔗 LinkedIn: [Abhinay Kushwaha](https://www.linkedin.com/in/abhinay-kushwaha-78b767285)
-- 🌐 Portfolio: [Abhinay Kushwaha]( )
+- 🌐 Portfolio: [Abhinay Kushwaha](https://abhinay-kushwaha.netlify.app/)
 - 🎥 YouTube: [@abhi_coding_]( )
 - 📸 Instagram: [@abhi_coding_]( )
 
