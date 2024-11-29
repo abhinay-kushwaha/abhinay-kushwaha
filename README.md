@@ -14,7 +14,7 @@ Diploma in Computer Science Engineering, Government Polytechnic College, Rewa, M
 A powerful project management tool to streamline workflows and boost productivity.
 
 2. [Techtieup](https://techtieup.com/)
-A platform connecting professionals and organizations for seamless collaboration.
+An innovative e-commerce platform connecting professionals and organizations for seamless collaboration.
 
 Both projects are in development at OZONESOFT Solutions.
 
