@@ -1,7 +1,7 @@
 Hi, I'm Abhinay Kushwaha! 👋
 Welcome to my GitHub profile! I am a passionate MERN Stack Developer with a strong foundation in software development, continuously learning and building impactful projects. Explore my work, connect, and let's collaborate on exciting ideas!
 
-👨‍💻 ##About Me
+👨‍💻 ## About Me
 
 💼 MERN Stack Developer with a knack for solving real-world problems through technology.
 🎓 Education:
@@ -9,7 +9,7 @@ B.Tech in Computer Science (2nd Year), Malwa Institute of Science & Technology, 
 Diploma in Computer Science Engineering, Government Polytechnic College, Rewa, MP.
 🌱 Eager learner and tech enthusiast constantly exploring new technologies.
 
-🚀 ##Projects
+🚀 ## Projects
 1. [Streamline](https://streamline.ozonesoftsolutions.com/)
 A powerful project management tool to streamline workflows and boost productivity.
 
@@ -34,7 +34,7 @@ Others
 
 Tools: Postman, RESTful APIs, Git & GitHub
 
-##🖥️ ##Portfolio
+🖥️ ## Portfolio
 
 🌐 Visit my [Portfolio](https://abhinay-kushwaha.netlify.app/)
 
