@@ -9,15 +9,19 @@ Welcome to my GitHub profile! Here you'll find a showcase of my projects, contri
 - 🎓 Computer Science Engineering Diploma from Government Polytechnic College, Rewa, MP.
 - 🌱 Eager learner and technology enthusiast.
 
-## Portfolio
-- [Potfolio](https://abhinay-kushwaha.netlify.app/)
+
+
 ## Projects
 
 Here are a few projects I've worked on:
 
-1. [Student-Management-system](link)
-2. [ERP-Management-System](https://github.com/abhinay-kushwaha/ERP_management_System)
-3. [E-Commerce](https://github.com/abhinay-kushwaha/E-Commerce-Test-React)
+1. [Streamline](https://streamline.ozonesoftsolutions.com/)
+2. [Techtieup](https://techtieup.com/)
+
+
+## Portfolio
+- [Potfolio](https://abhinay-kushwaha.netlify.app/)
+   
 
 Explore more of my projects on [my GitHub repositories](https://github.com/abhinay-kushwaha).
 
