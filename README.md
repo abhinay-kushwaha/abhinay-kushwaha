@@ -46,7 +46,7 @@ Tools: Postman, RESTful APIs, Git & GitHub
 
 📧 Email: [Abhinay Kushwaha](mailto:abhinayark0@gmail.com)
 
-💼 LinkedIn: [Abhinay Kushwaha](https://www.linkedin.com/in/abhinay-mern-stack)
+💼 LinkedIn: [Abhinay Kushwaha](https://www.linkedin.com/in/abhinay-kushwaha/)
 
 📹 YouTube: @abhi_coding_
 
