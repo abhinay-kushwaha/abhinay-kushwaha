@@ -23,13 +23,16 @@ An innovative e-commerce platform connecting professionals and organizations for
 Both projects are in development at OZONESOFT Solutions.
 
 ## Academic Projects
-[Student Management System]()
+1. [Student Management System]()
+
 Built using MERN stack, this system enables efficient management of student records and activities.
 
-[Food Hub]()
+2. [Food Hub]()
+   
 A React-based web application to explore and order food from a diverse range of restaurants.
 
-[Todo App]()
+3. [Todo App]()
+   
 A simple yet effective React application for managing daily tasks and improving productivity.
 
 Explore more on my GitHub repositories.
