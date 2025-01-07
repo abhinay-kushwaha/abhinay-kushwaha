@@ -41,8 +41,9 @@ Explore more on my GitHub repositories.
 ## 🌟 Skills
 
 Frontend
-Languages: HTML, CSS, JavaScript
-Frameworks: React.js
+Languages:  JavaScript,
+Frameworks: React.js,
+Frameworks: Expo with Nativewind
 
 Backend
 Languages: Node.js, Express.js
@@ -50,7 +51,7 @@ Languages: Node.js, Express.js
 Database: MongoDB, MySQL
 Others
 
-Tools: Postman, RESTful APIs, Git & GitHub
+Tools: Postman, RESTful APIs,  GitHub
 
 ## 🖥️   Portfolio
 
