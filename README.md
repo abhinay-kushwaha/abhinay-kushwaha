@@ -42,8 +42,7 @@ Explore more on my GitHub repositories.
 
 Frontend
 Languages:  JavaScript,
-Frameworks: React.js,
-Frameworks: Expo with Nativewind
+Frameworks: React.js & Expo with Nativewind
 
 Backend
 Languages: Node.js, Express.js
