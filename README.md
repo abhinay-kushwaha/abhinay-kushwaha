@@ -35,6 +35,7 @@ Explore more on my GitHub repositories.
 
 Frontend
 Languages:  JavaScript, TypeScript
+
 Frameworks: React.js, React Native  & Next.js
 
 Backend
