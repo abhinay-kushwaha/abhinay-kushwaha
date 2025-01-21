@@ -13,14 +13,7 @@ Diploma in Computer Science Engineering, Government Polytechnic College, Rewa, M
 
 🌱 Eager learner and tech enthusiast constantly exploring new technologies.
 
-## 🚀   Projects
-1. [Streamline](https://streamline.ozonesoftsolutions.com/)
-A powerful project management tool to streamline workflows and boost productivity.
-
-2. [Techtieup](https://techtieup.com/)
-An innovative e-commerce platform connecting professionals and organizations for seamless collaboration.
-
-Both projects are in development at OZONESOFT Solutions.
+ 
 
 ## Academic Projects
 1. [Student Management System]()
