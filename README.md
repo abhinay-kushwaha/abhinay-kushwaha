@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I am a passionate MERN Stack Developer with a stro
 💼 MERN Stack Developer with a knack for solving real-world problems through technology.
 
 ## 🎓 Education:
-B.Tech in Computer Science (2nd Year), Malwa Institute of Science & Technology, Indore, MP.
+B.Tech in Computer Science (ongoing), Malwa Institute of Science & Technology, Indore, MP.
 
 Diploma in Computer Science Engineering, Government Polytechnic College, Rewa, MP.
 
