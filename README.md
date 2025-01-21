@@ -33,13 +33,11 @@ Explore more on my GitHub repositories.
 
 ## 🌟 Skills
 
-Frontend
-Languages:  JavaScript, TypeScript
+Frontend:  JavaScript, TypeScript
 
 Frameworks: React.js, React Native  & Next.js
 
-Backend
-Languages: Node.js, Express.js
+Backend: Node.js, Express.js
 
 Database: MongoDB, MySQL
 Others
