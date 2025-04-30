@@ -1,75 +1,90 @@
-👋 Hi, I'm Abhinay Kushwaha!
-Welcome to my GitHub! I'm a MERN Stack & React Native Developer from Indore, India, passionate about building responsive web and mobile apps that solve real-world problems. Skilled in MongoDB, Express.js, React.js, Node.js, and React Native, I create scalable solutions with clean UI and robust APIs.
-I’m exploring DevOps (Docker, CI/CD, GitHub Actions) to optimize workflows. My big dream? To become a tech founder, launching startups that impact billions. 🚀 When not coding, I’m painting or sipping coffee during late-night hustle sessions. ☕
-💻 What I Bring to the Table
+# Hi, I'm Abhinay Kushwaha!
 
-Full-Stack Expertise: Crafting MERN stack apps with efficient RESTful APIs.
-Mobile Innovation: Building cross-platform apps with React Native for seamless UX.
-DevOps Enthusiast: Learning Docker and CI/CD for optimized deployments.
-Entrepreneurial Mindset: Ideating products that blend tech and impact.
-Clean Code Advocate: Focused on responsive design and user-centric solutions.
+Welcome to my GitHub! I'm a **MERN Stack & React Native Developer** from Indore, India, passionate about building **responsive web and mobile apps**. I specialize in **MongoDB, Express.js, React.js, Node.js**, and **React Native**, creating scalable solutions with clean UI and robust APIs.
 
-🛠️ Tech Stack
-          ![Docker](https://img.shields.io/badge/-Docker-2496ED Ascendingly, I’ll make sure to clean up those line breaks and ensure everything is properly formatted for a polished look.
+I'm diving into **DevOps** (Docker, CI/CD, GitHub Actions) and dreaming big—to become a **tech founder** launching startups that impact billions. 🚀 When not coding, I’m painting or sipping coffee during late-night hustle. ☕
+
+## What I Bring to the Table
+
+- **Full-Stack Expertise**: Crafting MERN stack apps with efficient RESTful APIs.
+- **Mobile Innovation**: Building cross-platform apps with React Native for seamless UX.
+- **DevOps Enthusiast**: Learning Docker and CI/CD for optimized deployments.
+- **Entrepreneurial Mindset**: Ideating products that blend tech and impact.
+- **Clean Code Advocate**: Focused on responsive design and user-centric solutions.
+
+## Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat) ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black&style=flat) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat) ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
+
 Also proficient in: C, C++, Java, Python, Redux, JWT, Socket.io, Figma, Canva, Netlify, Vercel.
-🌟 Featured Projects
-Student Management System
 
-A MERN stack app for streamlined student record management with secure authentication.
-Tech: React, Node.js, Express, MongoDB, Tailwind CSS.
-Features: JWT-based auth, role-based access, responsive dashboard.
+## Featured Projects
 
-Food Hub
+### [Student Management System](https://github.com/yourusername/student-management-system)
+- A MERN stack app for managing student records with secure authentication.
+- **Tech**: React, Node.js, Express, MongoDB, Tailwind CSS.
+- **Features**: JWT-based auth, role-based access, responsive dashboard.
 
-A React-based food ordering platform with intuitive restaurant browsing and cart features.
-Tech: React, Redux, Node.js, MongoDB, Tailwind CSS.
-Features: Real-time search, payment integration, mobile-friendly UI.
+### [Food Hub](https://github.com/yourusername/food-hub)
+- A React-based food ordering platform with restaurant browsing and cart features.
+- **Tech**: React, Redux, Node.js, MongoDB, Tailwind CSS.
+- **Features**: Real-time search, payment integration, mobile-friendly UI.
 
-Task Manager App
+### [Task Manager App](https://github.com/yourusername/task-manager)
+- A React Native app for task management with offline support and real-time updates.
+- **Tech**: React Native, Firebase, Redux.
+- **Features**: Cross-platform, push notifications, sleek UX.
 
-A React Native app for task management with offline support and real-time updates.
-Tech: React Native, Firebase, Redux.
-Features: Cross-platform, push notifications, sleek UX.
+Explore more in my [Repositories](https://github.com/yourusername?tab=repositories)!
 
-Explore more in my Repositories!
-🏢 Experience
+## Experience
 
-MERN Stack Developer @ OZONESOFT Solutions (Jun 2024 – Present)Building web and mobile apps with MERN and React Native, focusing on scalable APIs and clean UI.
+- **MERN Stack Developer @ OZONESOFT Solutions** (Jun 2024 – Present)  
+  Building web and mobile apps with MERN and React Native, focusing on scalable APIs and clean UI.
 
-MERN Stack Developer @ Shanti Infosoft LLP (CMMI Level 5) (Mar 2024 – May 2024)Developed full-stack solutions using MERN and Tailwind CSS, enhancing app performance.
+- **MERN Stack Developer @ Shanti Infosoft LLP (CMMI Level 5)** (Mar 2024 – May 2024)  
+  Developed full-stack solutions using MERN and Tailwind CSS, enhancing app performance.
 
+## Education & Certifications
 
-🎓 Education & Certifications
+- **BTech in Computer Science** (2024 – 2027)  
+  Malwa Institute of Science & Technology, Indore  
+  Focus: Data Structures, Algorithms, GitHub.
 
-BTech in Computer Science (2024 – 2027)Malwa Institute of Science & Technology, IndoreFocus: Data Structures, Algorithms, GitHub.
+- **Engineering Diploma in Computer Science** (2020 – 2023)  
+  Dr. Kalpana Chawla Govt. Polytechnic College, Rewa (RGPV, Bhopal)  
+  Grade: 8.23 | Activities: Painting.
 
-Engineering Diploma in Computer Science (2020 – 2023)Dr. Kalpana Chawla Govt. Polytechnic College, Rewa (RGPV, Bhopal)Grade: 8.23 | Activities: Painting.
+- **Mastering User Authentication using MERN** (May 2024)  
+  Shanti Infosoft Training Program.
 
-Mastering User Authentication using MERN (May 2024)Shanti Infosoft Training Program.
+## Connect with Me
 
+- **Portfolio**: [abhinay-kushwaha.netlify.app](https://abhinay-kushwaha.netlify.app/)  
+- **Email**: [abhinayark0@gmail.com](mailto:abhinayark0@gmail.com)  
+- **LinkedIn**: [linkedin.com/in/abhinay-kushwaha](https://linkedin.com/in/abhinay-kushwaha)  
+- **X**: [@abhinaykushwa](https://x.com/abhinaykushwa)  
+- **YouTube**: [@abhi_coding_](https://youtube.com/@abhi_coding_)  
+- **Instagram**: [@abhi_coding_](https://instagram.com/abhi_coding_)
 
-🌍 Connect with Me
+I’m excited to collaborate on projects or discuss startup ideas. Let’s connect! 😄
 
-🌐 Portfolio: abhinay-kushwaha.netlify.app
-📧 Email: abhinayark0@gmail.com
-💼 LinkedIn: linkedin.com/in/abhinay-kushwaha
-🐦 X: @abhinaykushwa
-📹 YouTube: @abhi_coding_
-📸 Instagram: @abhi_coding_
+## Fun Facts
 
-I’m excited to collaborate on innovative projects or discuss startup ideas. Let’s connect! 😄
-⚡ Fun Facts
+- 🎨 I paint to spark creativity—coding and art are my dual passions!
+- ☕ Coffee fuels my late-night coding and brainstorming.
+- 💡 Big vision: Founding a tech startup that transforms lives globally!
 
-🎨 I paint to spark creativity—coding and art are my dual passions!
-☕ Coffee powers my late-night coding and brainstorming sessions.
-💡 Big vision: Founding a tech startup that transforms lives globally!
+*"Code is the blueprint for innovation, and I’m here to build the future."*
 
-“Code is the blueprint for innovation, and I’m here to build the future.”
-Let’s create something game-changing together! 🚀
-📊 GitHub Stats
+Let’s create something game-changing! 🚀
 
+## GitHub Stats
 
+![Abhinay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
+![Visitor Count](https://visitcount.itsvg.in/api?id=yourusername&label=Profile%20Views&color=6&icon=0&pretty=true)
 
 
 
