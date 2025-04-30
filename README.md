@@ -1,65 +1,77 @@
-# Hi, I'm Abhinay Kushwaha! 👋
+👋 Hi, I'm Abhinay Kushwaha!
+Welcome to my GitHub! I'm a MERN Stack & React Native Developer from Indore, India, with a passion for crafting responsive web and mobile apps that solve real-world problems. Skilled in MongoDB, Express.js, React.js, Node.js, and React Native, I build scalable solutions with clean UI and robust APIs. 
+I’m also diving into DevOps (Docker, CI/CD, GitHub Actions) to streamline workflows. My ultimate dream? To become a tech founder, launching innovative startups that impact billions. 🚀 When I’m not coding, I’m painting or fueling my hustle with coffee. ☕
 
-Welcome to my GitHub profile! I am a passionate MERN Stack Developer with a strong foundation in software development, continuously learning and building impactful projects. Explore my work, connect, and let's collaborate on exciting ideas!
+💻 What I Bring to the Table
 
-## 👨‍💻   About Me
-
-💼 MERN Stack Developer with a knack for solving real-world problems through technology.
-
-## 🎓 Education:
-B.Tech in Computer Science (ongoing), Malwa Institute of Science & Technology, Indore, MP.
-
-Diploma in Computer Science Engineering, Government Polytechnic College, Rewa, MP.
-
-🌱 Eager learner and tech enthusiast constantly exploring new technologies.
-
- 
-
-## Academic Projects
-1. [Student Management System]()
-
-   Built using MERN stack, this system enables efficient management of student records and activities.
-
-2. [Food Hub]()
-   
-   A React-based web application to explore and order food from a diverse range of restaurants.
-
-3. [Todo App]()
-   
-   A simple yet effective React application for managing daily tasks and improving productivity.
+Full-Stack Expertise: Developing MERN stack apps with efficient RESTful APIs.
+Mobile Innovation: Creating cross-platform apps with React Native for seamless UX.
+DevOps Enthusiast: Exploring Docker and CI/CD for optimized deployments.
+Entrepreneurial Mindset: Always ideating products that blend tech and impact.
+Clean Code Advocate: Prioritizing responsive design and user-centric solutions.
 
 
-Explore more on my GitHub repositories.
+🛠️ Tech Stack
 
-## 🌟 Skills
+Also proficient in: C, C++, Java, Python, Redux, JWT, Socket.io, Figma, Canva, Netlify, Vercel.
 
-Frontend:  JavaScript, TypeScript
+🌟 Featured Projects
+Student Management System
 
-Frameworks: React.js, React Native  & Next.js
+A MERN stack app for streamlined student record management with secure authentication.
+Tech: React, Node.js, Express, MongoDB, Tailwind CSS.
+Features: JWT-based auth, role-based access, responsive dashboard.
 
-Backend: Node.js, Express.js
+Food Hub
 
-Database: MongoDB, MySQL
-Others
+A React-based food ordering platform with intuitive restaurant browsing and cart features.
+Tech: React, Redux, Node.js, MongoDB, Tailwind CSS.
+Features: Real-time search, payment integration, mobile-friendly UI.
 
-Tools: Postman,   GitHub
+Task Manager App
 
-## 🖥️   Portfolio
+A React Native app for task management with offline support and real-time updates.
+Tech: React Native, Firebase, Redux.
+Features: Cross-platform, push notifications, sleek UX.
 
-🌐 Visit my [Portfolio](https://abhinay-kushwaha.netlify.app/)
+Explore more in my Repositories!
 
-## 💬 Let's Connect
+🏢 Experience
 
-📧 Email: [Abhinay Kushwaha](mailto:abhinayark0@gmail.com)
+MERN Stack Developer @ OZONESOFT Solutions (Jun 2024 – Present)Building web and mobile apps with MERN and React Native, focusing on scalable APIs and clean UI.  
+MERN Stack Developer @ Shanti Infosoft LLP (CMMI Level 5) (Mar 2024 – May 2024)Developed full-stack solutions using MERN and Tailwind CSS, enhancing app performance.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinay-kushwaha) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/abhinaykushwa) 
 
- 
+🎓 Education & Certifications
 
+BTech in Computer Science (2024 – 2027)Malwa Institute of Science & Technology, IndoreFocus: Data Structures, Algorithms, GitHub.
+Engineering Diploma in Computer Science (2020 – 2023)Dr. Kalpana Chawla Govt. Polytechnic College, Rewa (RGPV, Bhopal)Grade: 8.23 | Activities: Painting.
+Mastering User Authentication using MERN (May 2024)Shanti Infosoft Training Program.
+
+
+🌍 Connect with Me
+
+🌐 Portfolio: abhinay-kushwaha.netlify.app
+📧 Email: abhinayark0@gmail.com
+💼 LinkedIn: linkedin.com/in/abhinay-kushwaha
+🐦 X: @abhinaykushwa
 📹 YouTube: @abhi_coding_
-
 📸 Instagram: @abhi_coding_
+
+I’m excited to collaborate on innovative projects or discuss startup ideas. Let’s connect! 😄
+
+⚡ Fun Facts
+
+🎨 I paint to spark creativity—coding and art are my dual passions!
+☕ Coffee powers my late-night coding and brainstorming sessions.
+💡 Big vision: Founding a tech startup that transforms lives globally!
+
+“Code is the blueprint for innovation, and I’m here to build the future.”Let’s create something game-changing together! 🚀
+
+📊 GitHub Stats
+
+
+
 
  
 
