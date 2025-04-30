@@ -1,20 +1,17 @@
 👋 Hi, I'm Abhinay Kushwaha!
-Welcome to my GitHub! I'm a MERN Stack & React Native Developer from Indore, India, with a passion for crafting responsive web and mobile apps that solve real-world problems. Skilled in MongoDB, Express.js, React.js, Node.js, and React Native, I build scalable solutions with clean UI and robust APIs. 
-I’m also diving into DevOps (Docker, CI/CD, GitHub Actions) to streamline workflows. My ultimate dream? To become a tech founder, launching innovative startups that impact billions. 🚀 When I’m not coding, I’m painting or fueling my hustle with coffee. ☕
-
+Welcome to my GitHub! I'm a MERN Stack & React Native Developer from Indore, India, passionate about building responsive web and mobile apps that solve real-world problems. Skilled in MongoDB, Express.js, React.js, Node.js, and React Native, I create scalable solutions with clean UI and robust APIs.
+I’m exploring DevOps (Docker, CI/CD, GitHub Actions) to optimize workflows. My big dream? To become a tech founder, launching startups that impact billions. 🚀 When not coding, I’m painting or sipping coffee during late-night hustle sessions. ☕
 💻 What I Bring to the Table
 
-Full-Stack Expertise: Developing MERN stack apps with efficient RESTful APIs.
-Mobile Innovation: Creating cross-platform apps with React Native for seamless UX.
-DevOps Enthusiast: Exploring Docker and CI/CD for optimized deployments.
-Entrepreneurial Mindset: Always ideating products that blend tech and impact.
-Clean Code Advocate: Prioritizing responsive design and user-centric solutions.
-
+Full-Stack Expertise: Crafting MERN stack apps with efficient RESTful APIs.
+Mobile Innovation: Building cross-platform apps with React Native for seamless UX.
+DevOps Enthusiast: Learning Docker and CI/CD for optimized deployments.
+Entrepreneurial Mindset: Ideating products that blend tech and impact.
+Clean Code Advocate: Focused on responsive design and user-centric solutions.
 
 🛠️ Tech Stack
-
+          ![Docker](https://img.shields.io/badge/-Docker-2496ED Ascendingly, I’ll make sure to clean up those line breaks and ensure everything is properly formatted for a polished look.
 Also proficient in: C, C++, Java, Python, Redux, JWT, Socket.io, Figma, Canva, Netlify, Vercel.
-
 🌟 Featured Projects
 Student Management System
 
@@ -35,17 +32,19 @@ Tech: React Native, Firebase, Redux.
 Features: Cross-platform, push notifications, sleek UX.
 
 Explore more in my Repositories!
-
 🏢 Experience
 
-MERN Stack Developer @ OZONESOFT Solutions (Jun 2024 – Present)Building web and mobile apps with MERN and React Native, focusing on scalable APIs and clean UI.  
+MERN Stack Developer @ OZONESOFT Solutions (Jun 2024 – Present)Building web and mobile apps with MERN and React Native, focusing on scalable APIs and clean UI.
+
 MERN Stack Developer @ Shanti Infosoft LLP (CMMI Level 5) (Mar 2024 – May 2024)Developed full-stack solutions using MERN and Tailwind CSS, enhancing app performance.
 
 
 🎓 Education & Certifications
 
 BTech in Computer Science (2024 – 2027)Malwa Institute of Science & Technology, IndoreFocus: Data Structures, Algorithms, GitHub.
+
 Engineering Diploma in Computer Science (2020 – 2023)Dr. Kalpana Chawla Govt. Polytechnic College, Rewa (RGPV, Bhopal)Grade: 8.23 | Activities: Painting.
+
 Mastering User Authentication using MERN (May 2024)Shanti Infosoft Training Program.
 
 
@@ -59,16 +58,18 @@ Mastering User Authentication using MERN (May 2024)Shanti Infosoft Training Prog
 📸 Instagram: @abhi_coding_
 
 I’m excited to collaborate on innovative projects or discuss startup ideas. Let’s connect! 😄
-
 ⚡ Fun Facts
 
 🎨 I paint to spark creativity—coding and art are my dual passions!
 ☕ Coffee powers my late-night coding and brainstorming sessions.
 💡 Big vision: Founding a tech startup that transforms lives globally!
 
-“Code is the blueprint for innovation, and I’m here to build the future.”Let’s create something game-changing together! 🚀
-
+“Code is the blueprint for innovation, and I’m here to build the future.”
+Let’s create something game-changing together! 🚀
 📊 GitHub Stats
+
+
+
 
 
 
