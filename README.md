@@ -60,12 +60,12 @@ Explore more in my [Repositories](https://github.com/yourusername?tab=repositori
 
 ## Connect with Me
 
-- **Portfolio**: [abhinay-kushwaha.netlify.app](https://abhinay-kushwaha.netlify.app/)  
-- **Email**: [abhinayark0@gmail.com](mailto:abhinayark0@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/abhinay-kushwaha](https://linkedin.com/in/abhinay-kushwaha)  
-- **X**: [@abhinaykushwa](https://x.com/abhinaykushwa)  
-- **YouTube**: [@abhi_coding_](https://youtube.com/@abhi_coding_)  
-- **Instagram**: [@abhi_coding_](https://instagram.com/abhi_coding_)
+- **Portfolio**: [Abhinay](https://abhinay-kushwaha.netlify.app/)  
+- **Email**: [Abhinay](mailto:abhinayark0@gmail.com)  
+- **LinkedIn**: [Abhinay](https://linkedin.com/in/abhinay-kushwaha)  
+- **X**: [Abhinay](https://x.com/abhinaykushwa)  
+- **YouTube**: [Abhinay](https://youtube.com/@codecraft_with_abhinay)  
+- **Instagram**: [Abhinay](https://instagram.com/codecraft_with_abhinay)
 
 I’m excited to collaborate on projects or discuss startup ideas. Let’s connect! 😄
 
