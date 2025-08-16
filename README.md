@@ -84,7 +84,7 @@ Explore more in my [Repositories](https://github.com/yourusername?tab=repositori
 
 ## Experience
 
-- **MERN Stack Developer @ OZONESOFT Solutions** (Jun 2024 – Present)  
+- **MERN Stack Developer @ OZONESOFT Solutions** (Jun 2024 – August 2025)  
   Building web and mobile apps with MERN and React Native, focusing on scalable APIs and clean UI.
 
 - **MERN Stack Developer @ Shanti Infosoft LLP (CMMI Level 5)** (Mar 2024 – May 2024)  
@@ -108,9 +108,7 @@ Explore more in my [Repositories](https://github.com/yourusername?tab=repositori
 - **Portfolio**: [Abhinay](https://abhinay-kushwaha.netlify.app/)  
 - **Email**: [Abhinay](mailto:abhinayark0@gmail.com)  
 - **LinkedIn**: [Abhinay](https://linkedin.com/in/abhinay-kushwaha)  
-- **X**: [Abhinay](https://x.com/abhinaykushwa)  
-- **YouTube**: [Abhinay](https://youtube.com/@codecraft_with_abhinay)  
-- **Instagram**: [Abhinay](https://instagram.com/codecraft_with_abhinay)
+- **X**: [Abhinay](https://x.com/abhinaydotcom)  
 
 I’m excited to collaborate on projects or discuss startup ideas. Let’s connect! 😄
 
