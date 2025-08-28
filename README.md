@@ -65,7 +65,7 @@ When I’m not coding, you’ll find me painting or enjoying late-night coffee d
 
 ## 🚀 Featured Projects  
 
-### [Roomify](https://github.com/yourusername/roomify)  
+### [Roomify](https://roomify-web-next-tsx.vercel.app/)  
 - A full-stack room booking platform built with **Next.js** and **NestJS** using **TypeScript**.  
 - **Tech**: Next.js, NestJS, TypeScript, PostgreSQL, Tailwind CSS  
 - **Features**: Razorpay integration for payments, authentication & authorization, booking management system
