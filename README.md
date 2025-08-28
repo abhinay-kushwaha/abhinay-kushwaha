@@ -63,22 +63,24 @@ When I’m not coding, you’ll find me painting or enjoying late-night coffee d
 
  
 
-## Featured Projects
+## 🚀 Featured Projects  
 
-### [Student Management System](https://github.com/yourusername/student-management-system)
-- A MERN stack app for managing student records with secure authentication.
-- **Tech**: React, Node.js, Express, MongoDB, Tailwind CSS.
-- **Features**: JWT-based auth, role-based access, responsive dashboard.
+### [Roomify](https://github.com/yourusername/roomify)  
+- A full-stack room booking platform built with **Next.js** and **NestJS** using **TypeScript**.  
+- **Tech**: Next.js, NestJS, TypeScript, PostgreSQL, Tailwind CSS  
+- **Features**: Razorpay integration for payments, authentication & authorization, booking management system
+  
+### [Student Management System](https://github.com/yourusername/student-management-system)  
+- A MERN stack application for managing student records with secure authentication.  
+- **Tech**: React, Node.js, Express, MongoDB, Tailwind CSS  
+- **Features**: JWT-based auth, role-based access, responsive dashboard  
 
-### [Food Hub](https://github.com/yourusername/food-hub)
-- A React-based food ordering platform with restaurant browsing and cart features.
-- **Tech**: React, Redux, Node.js, MongoDB, Tailwind CSS.
-- **Features**: Real-time search, payment integration, mobile-friendly UI.
+### [Tic Tac Toe Game](https://github.com/yourusername/tic-tac-toe)  
+- A simple and interactive **React Native** mobile game.  
+- **Tech**: React Native, Expo  
+- **Features**: Two-player mode, responsive UI, smooth gameplay  
 
-### [Task Manager App](https://github.com/yourusername/task-manager)
-- A React Native app for task management with offline support and real-time updates.
-- **Tech**: React Native, Firebase, Redux.
-- **Features**: Cross-platform, push notifications, sleek UX.
+
 
 Explore more in my [Repositories](https://github.com/yourusername?tab=repositories)!
 
