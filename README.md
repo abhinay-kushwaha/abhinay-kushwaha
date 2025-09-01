@@ -14,12 +14,13 @@ When I’m not coding, you’ll find me painting or enjoying late-night coffee d
 
 ## 🚀 What I Bring to the Table
 
-- **Full-Stack Expertise:** Developing production-ready applications with the MERN stack and Python.
-- **Mobile Innovation:** Building seamless cross-platform apps with React Native.
-- **DevOps & Microservices:** Exploring Docker, CI/CD pipelines, and scalable architectures.
-- **AI & Automation:** Passionate about leveraging AI to build smarter solutions.
-- **Entrepreneurial Mindset:** Continuously ideating products that blend technology and impact.
-- **Clean Code Advocate:** Delivering responsive designs and user-centric experiences.
+- **Full-Stack Expertise:** Developing production-ready applications with the MERN stack and Python.  
+- **Mobile Innovation:** Building seamless cross-platform apps with React Native.  
+- **DevOps & CI/CD:** Experienced with **Jenkins (automation server)** and **Docker (containerization)** for streamlining deployments and ensuring scalable architectures.  
+- **Cloud & Infrastructure:** Hands-on with **AWS (cloud computing services – EC2, S3, Lambda, RDS, etc.)** to design and manage reliable, cost-effective solutions.  
+- **AI & Automation:** Passionate about leveraging AI to build smarter solutions.  
+- **Entrepreneurial Mindset:** Continuously ideating products that blend technology and impact.  
+- **Clean Code Advocate:** Delivering responsive designs and user-centric experiences.  
 
 ---
 
