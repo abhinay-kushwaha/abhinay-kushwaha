@@ -101,10 +101,10 @@ Explore more in my [Repositories](https://github.com/yourusername?tab=repositori
 
 - **Engineering Diploma in Computer Science** (2020 – 2023)  
   Dr. Kalpana Chawla Govt. Polytechnic College, Rewa (RGPV, Bhopal)  
-  Grade: 8.23 | Activities: Painting.
+  Grade: 8.23 
 
-- **Mastering User Authentication using MERN** (May 2024)  
-  Shanti Infosoft Training Program.
+- **JavaScript, ReactJs NodeJs**  
+  Namaste Dev.
 
 ## Connect with Me
 
