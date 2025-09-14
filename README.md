@@ -95,11 +95,11 @@ Explore more in my [Repositories](https://github.com/yourusername?tab=repositori
 
 ## Education & Certifications
 
-- **BTech in Computer Science**   
+- **BTech in Computer Science**   (2024 - 2027)  
   Malwa Institute of Science & Technology, Indore  
   Focus: Data Structures, Algorithms, GitHub.
 
-- **Engineering Diploma in Computer Science**    
+- **Engineering Diploma in Computer Science** (2020 - 2023)   
   Dr. Kalpana Chawla Govt. Polytechnic College, Rewa (RGPV, Bhopal)  
   Grade: 8.23 
 
