@@ -1,4 +1,4 @@
-# Hi, I'm Abhinay Ramnarayn Kushwaha! 👋
+# Hi, I'm Abhinay Ramnarayan Kushwaha! 👋
 
 Welcome to my GitHub!  
 I’m a **MERN Stack & React Native Developer** from Indore, India, passionate about building **responsive web and mobile applications** that solve real-world problems.  
