@@ -85,14 +85,7 @@ When I’m not coding, you’ll find me painting or enjoying late-night coffee d
 
 Explore more in my [Repositories](https://github.com/yourusername?tab=repositories)!
 
-## Experience
 
-- **MERN Stack Developer @ OZONESOFT Solutions** (July 2024 – August 2025)  
-  Building web and mobile apps with MERN and React Native, focusing on scalable APIs and clean UI.
-
-- **MERN Stack Developer @ Shanti Infosoft LLP (CMMI Level 5)** (Mar 2024 – June 2024)  
-  Developed full-stack solutions using MERN and Tailwind CSS, enhancing app performance.
-  
 
 ## Education & Certifications
 
