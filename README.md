@@ -3,7 +3,7 @@
 Welcome to my GitHub!  
 I’m a **MERN Stack & React Native Developer** from Indore, India, passionate about building **responsive web and mobile applications** that solve real-world problems.  
 
-I specialize in **MongoDB, Express.js, React.js, Node.js**, **React Native**, and **Python**, creating **scalable solutions** with clean UIs and robust APIs.
+I specialize in **Next Js, MERN**, and **React Native**, creating **scalable solutions** with clean UIs and robust APIs.
 
 I’m also expanding my expertise into **DevOps** (Docker, CI/CD, GitHub Actions) and **Microservices**, with a keen interest in **AI-driven solutions**.  
 My dream? To become a **tech founder** launching startups that impact millions. 🚀  
