@@ -129,5 +129,3 @@ Let’s create something game-changing! 🚀
 [![](https://visitcount.itsvg.in/api?id=abhinay-kushwaha&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-
-please make more intractive and attractive also make some animated and classi and zenZ and also make best icons of techs and also add Discord link
